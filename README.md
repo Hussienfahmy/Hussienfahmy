@@ -9,13 +9,13 @@
 
 - 🤝 I’m looking for help with [MeFab Compose](https://github.com/Hussienfahmy/MeFab_Compose)
 
-- 👨‍💻 All of my projects are available at [h-fahmy.tk](h-fahmy.tk)
+- 👨‍💻 All of my projects are available at [h-fahmy.com](h-fahmy.com)
 
 - 💬 Ask me about **Android, Kotlin, Compose**
 
 - 📫 How to reach me **hussien.famy98@gmail.com**
 
-- 📄 Know about my experiences [https://h-fahmy.tk/cv-android.html](https://h-fahmy.tk/cv-android.html)
+- 📄 Know about my experiences [https://h-fahmy.com/cv-android.html](https://h-fahmy.com/cv-android.html)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
